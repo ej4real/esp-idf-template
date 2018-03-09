@@ -1,3 +1,4 @@
+
 # Elliptic-Curve-on-ESP32
 
 Takes temperature and pressure's mesure with a BMP180 and ESP32 module.
@@ -38,3 +39,14 @@ ecc.c and ecc.h perform all cryptography's function. bmp180.c and bmp180.h do th
 
 #### PS
 This project is very specific but i put it on github more for the cryptographic example than to make it functionnal for another user.
+
+# esp-idf-template
+basecode for esp32 implementation 
+ 
+# Features
+ - GATT implementation 
+ - AES Encryption/Decryption
+ 
+ # Coming soon
+ - LoRa implementation
+ - ECIES encryption/decryption
